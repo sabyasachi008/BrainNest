@@ -1,0 +1,17 @@
+
+
+
+First Step - >
+we can share the second brain link 
+Sign up -> Important links where we can save history of links and also save the meta data of the links 
+
+Second part ->
+Query the tweet and find it out. Basically built a pipeline  where we can query the past 1 year links 
+
+Backend - 
+sign up 
+sing in
+Add new content
+Fetching all existing documents no pagination
+Delete documents
+create a shareable link for your second brain { "share":true};
