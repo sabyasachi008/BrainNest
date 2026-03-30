@@ -1,0 +1,8 @@
+ Declaration files should be dev dependency.
+ What is a dev dependency.
+ A dependency which is only used during development. But not in production.
+ 
+ GPT is trained on a lot of text but a bunch of vectors. 
+ Vectors can be nth dimentional
+  
+Convert all the data into embeddings and store the data  as embeddings forms and when the user query comes we convert the query to the embeddings and then we would check which is the most closest. And return the most closes vectors 

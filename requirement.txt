@@ -15,3 +15,10 @@ Add new content
 Fetching all existing documents no pagination
 Delete documents
 create a shareable link for your second brain { "share":true};
+
+
+Advance - When we query using the sharelink of brain it not only give the current link but also gives all the relevant links which are stored in the content to give context to gpt/claude
+
+How to you find top 5 relevant links given the question statement
+vector database
+ 
